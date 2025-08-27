@@ -51,12 +51,13 @@ To get a local copy up and running, follow these steps:
 8. Start the development server:
     Open your browser and go to http://127.0.0.1:8000/
 
-##api-testing
+## api-testing
 Performing API testing
 since I've set that anyone can view the data or set it in public it doesn't require any authentication.
 <img width="1378" height="332" alt="image" src="https://github.com/user-attachments/assets/814908a5-dacd-40b2-8d12-24ef989f6dda" />
 
 For POST, I've set that only the me can alter and post data so it requires a token for authentication 
 <img width="1405" height="445" alt="image" src="https://github.com/user-attachments/assets/280e2a07-cb44-4764-9383-10f04f25b026" />
+
 
 
