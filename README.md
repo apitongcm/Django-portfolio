@@ -7,6 +7,7 @@ Welcome to my Django Portfolio! This project showcases my skills and projects us
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [API Testing](#api-testing)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
